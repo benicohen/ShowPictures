@@ -5,9 +5,11 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:ShowPicturs">
 
-    <Label
-        HorizontalOptions="Center"
-        Text="Welcome to Xamarin Forms!"
-        VerticalOptions="Center" />
+    <ContentPage.Content>
+        <StackLayout />
+
+
+    </ContentPage.Content>
+
 
 </ContentPage>
